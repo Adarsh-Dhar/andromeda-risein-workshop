@@ -1,40 +1,56 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# CrowdTube  
 
-## Getting Started
+CrowdTube  
 
-First, run the development server:
+## Who Am I  
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+- **Name:** Adarsh Dhar  
+- **Role:** Developer
+- **Education:** Sophmore NIT Rourkela
+- **Background:** Blockchain enthusiast building Web3 tools for creators  
+- **Contact:** dharadarsh0@gmail.com 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Project Details  
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+CrowdTube is a crowdfunding dApp for YouTubers, allowing creators to raise funds for their video production directly from their fans. Built on the [Andromeda Protocol](https://github.com/andromedaprotocol/embeddable-marketplace-demo), it enables transparency in funding and profit sharing, ensuring a fair and decentralized process for all stakeholders.  
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+---
 
-## Learn More
+## Vision  
 
-To learn more about Next.js, take a look at the following resources:
+Our vision is to empower creators by providing them with a decentralized platform to fund their ideas and share profits with their supporters. By leveraging the Andromeda Protocol, we aim to foster collaboration and transparency, revolutionizing how content creation is supported in the digital age.  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Features  
 
-## Deploy on Vercel
+- **Crowdfunding ADO Integration:** Secure, decentralized funding mechanism.  
+- **Profit Sharing:** Transparent and automated revenue distribution.  
+- **Fan Engagement:** Direct interaction between creators and their supporters.  
+- **Smart Contract Security:** Built on the robust Andromeda ADO framework.  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Getting Started  
 
-## Licensing
+Follow these steps to set up the project:  
 
-[Terms and Conditions](https://github.com/andromedaprotocol/andromeda-core/blob/development/LICENSE/LICENSE.md)
-# andromeda-risein-workshop
-# andromeda-risein-workshop
+1. **Clone the Repository**  
+   ```bash  
+   git clone https://github.com/Adarsh-Dhar/andromeda-risein-workshop.git  
+   cd andromeda-risein-workshop
+
+2. **Install Dependency**  
+   ```bash  
+   npm install
+
+3. **Run the Development Server**  
+   ```bash  
+   npm run dev
+
+**The server should run at (http://localhost:3000)**
+
+**The embeddablesembedebles is deployed at [https://embeddables.testnet.andromedaprotocol.io/galileo-4/CrowdTube]**
+
